@@ -1,5 +1,0 @@
-text
-
-git add *
-git commit -m "just a comment"
-push

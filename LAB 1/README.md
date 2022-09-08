@@ -1,5 +1,6 @@
-#LAB 1: VS, Git and GitHub Introduction
+# LAB 1: VS, Git and GitHub Introduction
 
-git add *
-git commit -m "just a comment"
-push
+## Stage, Commit and Push
+- git add *
+- git commit -m "just a comment"
+- git push

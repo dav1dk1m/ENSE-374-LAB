@@ -1,6 +1,6 @@
 # LAB 2: HTML and CSS
 
-## [LAB 2 Info]("https://adamtilson.github.io/labs/ense-374/lab-2/")
+## [LAB 2 Info](https://adamtilson.github.io/labs/ense-374/lab-2/)
 
 ## Lab Assignment
 

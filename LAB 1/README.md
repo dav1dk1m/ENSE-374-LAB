@@ -7,6 +7,11 @@ git commit -m "just a comment"
 git push
 ```
 
+## To review README on VS
+```
+cmd + k then v
+```
+
 ## Lab Assignment
 
 Perform the following operations. After each step, be sure to save, stage, commit and push.

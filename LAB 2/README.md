@@ -2,6 +2,25 @@
 
 ## [LAB 2 Info](https://adamtilson.github.io/labs/ense-374/lab-2/)
 
+- [HTML Tags](https://adamtilson.github.io/labs/ense-374/lab-2/#part4tags)
+- [CSS Selectors](https://adamtilson.github.io/labs/ense-374/lab-2/#part6cssselectorspropertiesandvalues)
+
+Comment HTML on VS:
+```
+cmd + \ => <-- comment -->
+```
+
+Comment CSS:
+```
+/* comment */ 
+```
+
+Basic CSS syntax:
+```
+selector { property : value; }
+  who        what       how
+```
+
 ## Lab Assignment
 
 For the lab project, we are going to be making a multi-user to-do list application.

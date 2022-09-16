@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    background-color: rgb(219, 237, 255);
+    margin-left: 40%;
+    margin-right: 40%;
+    padding-bottom: 10px;
+}
+
+.container-small {
+    background-color: rgb(219, 237, 255);
+    margin-left: 35%;
+    margin-right: 35%;
+    padding-bottom: 10px;
+}
+
+.container-big {
+    background-color: rgb(219, 237, 255);
+    margin-top: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 1rem;
+    padding-bottom: 10px;
+}
+
+svg {
+    fill: blue;
+}
+
+span {
+    color: blue;
+    text-decoration: underline;
+}

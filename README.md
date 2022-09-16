@@ -1,10 +1,13 @@
 # ENSE 374 LAB: Software Engineering Management
 
+## [ENSE 374 LAB Info](https://adamtilson.github.io/labs/ense-374/)
+
 ## Overview
 In this lab you will apply the principles learned in class to incrementally develop a client / server architecture using the Node.js stack and the MVC Architectural Pattern. Components include:     
 - Implement View with HTML, CSS, BootStrap, jQuery, EJS    
 - Implement Controller with Node.js and Express.js    
 - Implement Model with MongoDB, Mongoose and Passport
+
 
 |   |Assigned|Due|Folder|
 | --- | --- |---|---|

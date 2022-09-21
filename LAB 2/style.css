@@ -4,26 +4,29 @@ body {
 
 .container {
     text-align: center;
-    background-color: rgb(219, 237, 255);
+    background-color: rgb(240, 245, 249);
     margin-left: 40%;
     margin-right: 40%;
     padding-bottom: 10px;
+    box-shadow: 4px 5px 5px rgb(126, 126, 126);
 }
 
 .container-small {
-    background-color: rgb(219, 237, 255);
+    background-color: rgb(240, 245, 249);
     margin-left: 35%;
     margin-right: 35%;
     padding-bottom: 10px;
+    box-shadow: 4px 5px 5px rgb(126, 126, 126);
 }
 
 .container-big {
-    background-color: rgb(219, 237, 255);
+    background-color: rgb(240, 245, 249);
     margin-top: 30px;
     margin-left: 30%;
     margin-right: 30%;
     padding: 1rem;
     padding-bottom: 10px;
+    box-shadow: 4px 5px 5px rgb(126, 126, 126);
 }
 
 svg {
@@ -33,4 +36,8 @@ svg {
 span {
     color: blue;
     text-decoration: underline;
+}
+
+#myInput1, #myInput3 {
+    text-decoration: line-through;
 }

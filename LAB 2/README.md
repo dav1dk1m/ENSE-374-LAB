@@ -7,7 +7,7 @@
 
 Comment HTML on VS:
 ```
-cmd + \ => <-- comment -->
+cmd + \ => <--! comment -->
 ```
 
 Comment CSS:

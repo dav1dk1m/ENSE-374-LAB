@@ -1,10 +1,12 @@
-# LAB 5:  jQuery
+# LAB 6:  Node.js
 
-## [LAB 5 Info](https://adamtilson.github.io/labs/ense-374/lab-5/)
+## [LAB 6 Info](https://adamtilson.github.io/labs/ense-374/lab-6/)
 
 ## Objective
 
-This lab introduces jQuery, a JavaScript library which makes writing JavaScript code, particularly involving DOM operations, much faster. In particular it handles things like DOM traversal and manipulation, event handling and animations. Additionally, jQuery acts as an introduction to JavaScript libraries, of which many exist, so that you can understand the process of finding, integrating and using a JavaScript library.
+This lab introduces Node.js, a server-side runtime environment that uses JavaScript. This application allows you to write code in JavaScript that exists on the server and can perform actions like serving files, performing database operations and customizing files at runtime through templates.
+
+
 
 
 
